@@ -1,8 +1,15 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Builder Development
+description: A website.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://keatonbuilder.github.io/builds/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  GitHub Repository: https://github.com/builderdevelopment/builderdevelopment
+  Discord: https://discord.com/QWWRSnJWrY
+
+search_enabled: false
+
+color_scheme: dark
+
+logo: "assets/img/icons/dark-1.1-initial.png"
